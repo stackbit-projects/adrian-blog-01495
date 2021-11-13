@@ -35,7 +35,7 @@
         "social_links": [
             {
                 "label": "facebook",
-                "url": "#",
+                "url": "https://www.facebook.com/",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
