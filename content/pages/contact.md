@@ -36,7 +36,7 @@ sections:
         name: consent
         label: >-
           Inteleg că acest formular stochează informațiile trimise de mine,
-          astfel încat sa pot fi contactat.
+          astfel incat sa pot fi contactat.
     submit_label: Send Message
 seo:
   title: Contact
