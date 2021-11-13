@@ -13,7 +13,7 @@ sections:
     content: |
       Inca nu stiu ce voi scrie exact aici, ma voi mai gandi si revin.
     actions:
-      - label: Contacteaza=ma
+      - label: Contacteaza-ma
         url: /contact
         style: button
   - section_id: recent-posts
