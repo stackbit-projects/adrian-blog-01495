@@ -23,7 +23,7 @@ sections:
       - input_type: select
         name: Subiect
         label: Subiect
-        default_value: Please select
+        default_value: elect
         options:
           - Error on the site
           - Sponsorship
