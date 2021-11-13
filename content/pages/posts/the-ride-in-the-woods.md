@@ -3,7 +3,7 @@ subtitle: A cautionary tale about riding
 excerpt: >-
   The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
   sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-date: '2018-01-23'
+date: '2013-05-23'
 thumb_img_path: /images/adi8.jpg
 thumb_img_alt: A motorcycle in a forest
 content_img_path: images/3.jpg
