@@ -21,7 +21,7 @@ sections:
         options:
           - lorem-ipsum
       - input_type: select
-        name: subject
+        name: Subiect
         label: Subject
         default_value: Please select
         options:
