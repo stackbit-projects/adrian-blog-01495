@@ -14,7 +14,7 @@ sections:
         options: []
         is_required: false
         label: Nume
-        default_value: Scrie numel
+        default_value: Scrie numele
       - input_type: email
         name: email
         label: Email
