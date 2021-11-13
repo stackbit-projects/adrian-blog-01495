@@ -14,7 +14,7 @@
             {
                 "label": "Home",
                 "url": "/",
-                "style": "button"
+                "style": "icon"
             },
             {
                 "label": "Blog",
