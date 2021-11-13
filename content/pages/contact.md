@@ -54,6 +54,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    title: Nume
 seo:
   title: Contact
   description: This is the contact page
