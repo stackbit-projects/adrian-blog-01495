@@ -39,7 +39,7 @@
                 "style": "link",
                 "icon_class": "instagram",
                 "new_window": false,
-                "no_follow": false
+                "no_follow": true
             }
         ]
     },
