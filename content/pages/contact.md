@@ -10,7 +10,7 @@ sections:
       - input_type: text
         name: Nume
         options: []
-        is_required: true
+        is_required: false
         label: Nume
         default_value: Scrie numele
       - input_type: email
