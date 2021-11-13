@@ -25,7 +25,7 @@ sections:
         label: Subiect
         default_value: Selecteaza
         options:
-          - Error on the site
+          - Eroare pe site
           - Sponsorship
           - Other
       - input_type: textarea
