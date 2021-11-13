@@ -162,7 +162,7 @@ models:
           - green
           - orange
           - violet
-          - 
+          - black
         default: green
         required: true
       - type: model
