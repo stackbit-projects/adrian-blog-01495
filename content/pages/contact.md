@@ -34,6 +34,9 @@ sections:
         default_value: Mesajul tau
       - input_type: checkbox
         name: consent
+        label: >-
+          Înțeleg că acest formular stochează informațiile trimise de mine,
+          astfel încât să pot fi contactat.
     submit_label: Send Message
 seo:
   title: Contact
