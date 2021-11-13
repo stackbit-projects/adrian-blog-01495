@@ -20,6 +20,7 @@ sections:
         name: Nume
         options: []
         is_required: false
+        label: Nume
       - input_type: select
         name: subject
         label: Subject
