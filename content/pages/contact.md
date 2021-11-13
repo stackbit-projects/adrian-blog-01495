@@ -4,8 +4,6 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: |
-      Nume
     form_id: contactForm
     form_action: /thank-you
     form_fields:
