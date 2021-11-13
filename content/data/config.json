@@ -37,7 +37,7 @@
                 "label": "Facebook",
                 "url": "https://www.facebook.com/",
                 "style": "link",
-                "icon_class": "facebook",
+                "icon_class": "pinterest",
                 "new_window": true,
                 "no_follow": false
             }
