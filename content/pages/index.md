@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Salut, acesta este blogul meu'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Voi face un blog despre una despre alta.
   - section_id: about
     type: section_content
     title: About
