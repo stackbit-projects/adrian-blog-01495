@@ -31,7 +31,7 @@ sections:
       - input_type: textarea
         name: Mesaj
         label: Mesaj
-        default_value: esajul tau
+        default_value: Mesajul tau
       - input_type: checkbox
         name: consent
         label: >-
