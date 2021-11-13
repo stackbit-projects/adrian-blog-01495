@@ -27,7 +27,7 @@ sections:
         options:
           - Eroare pe site
           - Sponsorizare
-          - Other
+          - A
       - input_type: textarea
         name: message
         label: Message
