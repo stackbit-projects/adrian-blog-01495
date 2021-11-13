@@ -22,7 +22,7 @@ sections:
           - lorem-ipsum
       - input_type: select
         name: Subiect
-        label: Subject
+        label: Subiect
         default_value: Please select
         options:
           - Error on the site
