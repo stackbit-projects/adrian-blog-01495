@@ -18,7 +18,7 @@ sections:
           - lorem-ipsum
       - input_type: text
         name: Nume
-        label: crie numele
+        label: Scrie numele
         options: []
         is_required: false
       - input_type: select
