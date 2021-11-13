@@ -19,7 +19,6 @@ sections:
       - input_type: text
         name: Nume
         label: scrie numele
-        default_value: lorem-ipsum
         options: []
         is_required: false
       - input_type: select
