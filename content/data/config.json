@@ -38,7 +38,7 @@
                 "url": "https://www.facebook.com/",
                 "style": "link",
                 "icon_class": "linkedin",
-                "new_window": true,
+                "new_window": false,
                 "no_follow": false
             }
         ]
