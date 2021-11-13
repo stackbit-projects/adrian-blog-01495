@@ -11,7 +11,7 @@ sections:
     type: section_content
     title: despre
     content: |
-      Inca nu stiu ce voi scrie exact aici, ma voi mai gandi si revin.
+      Calatoriile mele.
     actions:
       - label: Contacteaza-ma
         url: /contact
