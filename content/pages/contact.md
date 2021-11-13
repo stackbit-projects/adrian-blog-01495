@@ -35,7 +35,7 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          Inteleg că acest formular stochează informațiile trimise de mine,
+          Inteleg ca acest formular stochează informațiile trimise de mine,
           astfel incat sa pot fi contactat.
     submit_label: Send Message
 seo:
