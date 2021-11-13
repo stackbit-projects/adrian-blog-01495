@@ -34,7 +34,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "facebook",
+                "label": "acebook",
                 "url": "https://www.facebook.com/",
                 "style": "link",
                 "icon_class": "dev",
