@@ -17,7 +17,7 @@ sections:
         options:
           - lorem-ipsum
       - input_type: text
-        name: lorem-ipsum
+        name: Nume
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
