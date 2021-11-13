@@ -29,7 +29,7 @@ sections:
           - Sponsorizare
           - Altele
       - input_type: textarea
-        name: message
+        name: Mesaj
         label: Message
         default_value: Your message
       - input_type: checkbox
