@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Salut, acesta este blogul meu'
     content: |
-      Voi face un blog despre una despre alta.
+      Voi face un blog despre calatorii.
   - section_id: about
     type: section_content
     title: despre
