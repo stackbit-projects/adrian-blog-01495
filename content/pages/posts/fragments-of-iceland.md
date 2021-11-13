@@ -3,7 +3,7 @@ title: Zakyntos Grecia
 excerpt: La plimbare cu barca spre plaja Navagio.
 date: '2019-08-03'
 thumb_img_path: /images/IMG_20190803_091351.jpg
-content_img_path: images/7.jpg
+content_img_path: /images/IMG_20190803_091351-755673d3.jpg
 content_img_alt: Icelandic horses
 seo:
   title: Fragments of Iceland
