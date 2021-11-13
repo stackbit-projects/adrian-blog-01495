@@ -9,6 +9,11 @@ sections:
     form_id: contactForm
     form_action: /thank-you
     form_fields:
+      - input_type: text
+        name: Nume
+        options: []
+        is_required: false
+        label: Nume
       - input_type: email
         name: email
         label: Email
@@ -16,11 +21,6 @@ sections:
         is_required: true
         options:
           - lorem-ipsum
-      - input_type: text
-        name: Nume
-        options: []
-        is_required: false
-        label: Nume
       - input_type: select
         name: subject
         label: Subject
