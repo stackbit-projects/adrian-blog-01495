@@ -26,7 +26,7 @@ sections:
         default_value: Selecteaza
         options:
           - Eroare pe site
-          - Sponsorship
+          - Spon
           - Other
       - input_type: textarea
         name: message
