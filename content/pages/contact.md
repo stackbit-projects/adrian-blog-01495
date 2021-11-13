@@ -30,7 +30,7 @@ sections:
           - Altele
       - input_type: textarea
         name: Mesaj
-        label: Message
+        label: Mesaj
         default_value: Your message
       - input_type: checkbox
         name: consent
