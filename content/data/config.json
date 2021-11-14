@@ -23,7 +23,7 @@
             {
                 "label": "Despre",
                 "url": "/about/",
-                "style": "link"
+                "style": "button"
             },
             {
                 "label": "Contact",
