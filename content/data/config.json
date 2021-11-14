@@ -22,7 +22,7 @@
             },
             {
                 "label": "New",
-                "url": "/new",
+                "url": "/new/",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
