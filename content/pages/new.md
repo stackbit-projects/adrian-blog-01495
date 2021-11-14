@@ -1,6 +1,5 @@
 ---
 title: New
-img_alt: lorem-ipsum
 seo:
   title: ''
   description: ''
