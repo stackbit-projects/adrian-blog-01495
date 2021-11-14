@@ -20,14 +20,6 @@
                 "style": "link"
             },
             {
-                "label": "New",
-                "url": "/new/",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
                 "label": "Despre",
                 "url": "/about/",
                 "style": "link"
