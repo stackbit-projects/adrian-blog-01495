@@ -6,7 +6,6 @@ excerpt: >-
   as a WAHM (work at home mom) or a WAHD (work at home dad).
 date: '2016-08-22'
 thumb_img_alt: A man sitting at the table
-content_img_path: images/9.jpg
 content_img_alt: A man sitting at the table
 seo:
   title: The Advantages and Disadvantages of Working from Home
