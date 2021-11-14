@@ -8,6 +8,7 @@ seo:
   extra: []
 layout: page
 subtitle: '2021'
+img_path: /images/20170728_114123.jpg
 ---
 ## Lorem ipsum
 
