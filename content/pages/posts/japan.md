@@ -6,7 +6,6 @@ excerpt: >-
   see the use of tatami mats and sliding doors that break down the distinction
   between rooms and indoor and outdoor space.
 date: '2013-05-04'
-thumb_img_path: /images/adi8-c6c7d46a.jpg
 content_img_path: images/2.jpg
 seo:
   title: A Weekend in Japan
