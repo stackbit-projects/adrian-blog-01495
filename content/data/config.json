@@ -28,7 +28,7 @@
             {
                 "label": "Contact",
                 "url": "/contact/",
-                "style": "button"
+                "style": "link"
             }
         ],
         "has_social": true,
